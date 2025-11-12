@@ -4,7 +4,13 @@
 #include "Animal.h"
 
 //define class bird here 
-
+class bird :: animal{
+    
+    public:
+    
+    float wingSpan;
+    
+}
 
 
 
