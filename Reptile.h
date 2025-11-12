@@ -4,7 +4,13 @@
 #include "Animal.h"
 
 //define reptile class here
-
+class reptile :: animal{
+    
+    public: 
+    
+    bool isVenomous;
+    
+}
 
 
 
