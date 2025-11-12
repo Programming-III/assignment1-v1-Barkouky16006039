@@ -4,7 +4,13 @@
 #include "Animal.h"
 
 //define mammal class here
-
+class mammal :: animal{
+    
+    public:
+    
+    string furColor;
+    
+}
 
 
 
