@@ -5,7 +5,20 @@
 using namespace std;
 
 //define animal class here 
-
+class animal {
+    
+    private:
+    
+    string name;
+    int age;
+    bool isHungry;
+    
+    public:
+    
+    void display();
+    void feed();
+    
+}
 
 
 #endif
